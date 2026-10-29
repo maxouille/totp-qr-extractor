@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+# Ne jamais publier d'exports ni de QR codes : ils contiennent vos secrets 2FA
+*.csv
+*.txt
+!requirements.txt
+*.json
+*.png
+*.jpg
+*.jpeg
+*.webp
+totp_export.*
+!pyproject.toml

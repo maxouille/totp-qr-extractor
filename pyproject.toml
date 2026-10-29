@@ -1,0 +1,20 @@
+[project]
+name = "totp-qr-extractor"
+version = "1.0.0"
+description = "Extract 2FA secret keys from any TOTP QR code (Google Authenticator export, otpauth://), 100% offline, export to Bitwarden/Vaultwarden"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = ["Pillow>=10.0", "zxing-cpp>=2.2"]
+keywords = ["totp", "2fa", "google-authenticator", "bitwarden", "vaultwarden", "otpauth", "migration", "qr-code", "offline"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Environment :: X11 Applications",
+  "Topic :: Security",
+]
+
+[project.optional-dependencies]
+dnd = ["tkinterdnd2>=0.3.0"]
+
+[project.urls]
+Homepage = "https://github.com/maxouille/totp-qr-extractor"
