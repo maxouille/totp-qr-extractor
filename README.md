@@ -5,6 +5,8 @@
 
 Typical use: move your accounts from **Google Authenticator** to **Bitwarden / Vaultwarden** (or any other authenticator), or simply back up the secrets of a QR code you were shown once.
 
+> 🤖 **Built with Claude (Anthropic)** — this project was written with AI assistance. / Projet réalisé avec l'aide de Claude (Anthropic). See [AI disclosure](#ai-disclosure--transparence-ia).
+
 > Not affiliated with Google, Bitwarden or Vaultwarden. Names are used only to describe compatibility.
 > Projet non affilié à Google, Bitwarden ou Vaultwarden ; les noms servent uniquement à décrire la compatibilité.
 
