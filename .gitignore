@@ -12,3 +12,4 @@ __pycache__/
 *.webp
 totp_export.*
 !pyproject.toml
+!docs/*.png

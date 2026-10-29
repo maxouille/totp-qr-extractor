@@ -10,6 +10,8 @@ Typical use: move your accounts from **Google Authenticator** to **Bitwarden / V
 > Not affiliated with Google, Bitwarden or Vaultwarden. Names are used only to describe compatibility.
 > Projet non affilié à Google, Bitwarden ou Vaultwarden ; les noms servent uniquement à décrire la compatibilité.
 
+![Screenshot of totp-qr-extractor with fictional accounts](docs/screenshot.png)
+
 `2fa` `totp` `hotp` `otpauth` `qr-code` `google-authenticator` `bitwarden` `vaultwarden` `migration` `secret-key` `tkinter` `offline` `privacy`
 
 ---
